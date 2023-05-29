@@ -1,2 +1,0 @@
-# andro
-My App test
